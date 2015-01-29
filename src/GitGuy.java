@@ -11,4 +11,7 @@ public class GitGuy {
 		System.out.println(reply);
 	}
 
+	public void setReply(String reply) {
+		this.reply = reply;
+	}
 }
