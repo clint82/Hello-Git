@@ -9,6 +9,8 @@ public class HelloGit {
 		
 		GitGuy git = new GitGuy("Well, Hello yourself!");
 		git.talk();
+		git.setReply("So how do you like using git so far?");
+		git.talk();
 		
 	}
 	
